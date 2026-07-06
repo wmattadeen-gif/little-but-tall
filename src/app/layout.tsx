@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Little But Tall Charities",
-  description: "Little But Tall Charities, empowering youth and growing communities through the C.L.I.M.B. approach.",
+  description:
+    "Little But Tall Charities expands opportunity for young people through mentorship, education, exposure, and practical support.",
 };
 
 export default function RootLayout({

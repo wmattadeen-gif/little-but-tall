@@ -20,7 +20,7 @@ export function SiteShell({
             />
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.25em] text-rose-500">{eyebrow}</p>
-              <p className="mt-1 text-sm text-slate-600">Empowering youth through the C.L.I.M.B. approach</p>
+              <p className="mt-1 text-sm text-slate-600">Potential is everywhere. Opportunity is not.</p>
             </div>
           </div>
           <nav className="flex flex-wrap gap-3 text-sm font-medium text-slate-700">
@@ -48,7 +48,7 @@ export function SiteShell({
           <div>
             <h3 className="text-lg font-semibold">Little But Tall Charities</h3>
             <p className="mt-3 max-w-sm text-sm leading-7 text-slate-300">
-              Helping young people in underserved communities access mentorship, education, workforce opportunity, and real support through the C.L.I.M.B. approach.
+              Helping young people in underserved communities access mentorship, education, exposure, and real support so they can discover their potential and stand tall.
             </p>
           </div>
           <div>

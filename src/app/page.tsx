@@ -6,8 +6,8 @@ import { brandAssets, featuredPrograms } from "@/lib/site-data";
 
 const pillars = [
   {
-    title: "A mission rooted in opportunity",
-    text: "Little But Tall exists to help children and young adults in underserved communities access education, workforce opportunity, and the support they need to grow.",
+    title: "Potential is everywhere. Opportunity is not.",
+    text: "Little But Tall exists to expand access to the relationships, resources, experiences, and encouragement young people need to discover their potential.",
     image: brandAssets.aboutMission,
   },
   {
@@ -23,9 +23,9 @@ const pillars = [
 ];
 
 const stats = [
-  { label: "Mission", value: "Empowering youth, growing communities" },
+  { label: "Core belief", value: "Potential is everywhere. Opportunity is not." },
   { label: "Core approach", value: "Choose, Learn, Intentions, Move, Believe" },
-  { label: "Focus", value: "Education, mentoring, and opportunity" },
+  { label: "Focus", value: "Mentorship, education, exposure, and access" },
 ];
 
 const impactTiles = [
@@ -94,10 +94,10 @@ export default function Home() {
 
               <div className="space-y-6">
                 <h1 className="max-w-3xl text-5xl font-bold leading-tight tracking-tight text-slate-950 md:text-6xl">
-                  Every child deserves the chance to climb toward a stronger future.
+                  Every child deserves the opportunity to discover how tall they can stand.
                 </h1>
                 <p className="max-w-2xl text-lg leading-8 text-slate-700 md:text-xl">
-                  Little But Tall Charities serves children and young adults in underserved communities through mentorship, education, community support, and real pathways to opportunity.
+                  Little But Tall Charities expands opportunities for young people in underserved communities through mentorship, education, leadership development, and meaningful pathways to impact.
                 </p>
               </div>
 
@@ -148,10 +148,10 @@ export default function Home() {
                 <div className="absolute bottom-0 left-0 right-0 p-8 text-white">
                   <p className="text-sm font-semibold uppercase tracking-[0.25em] text-rose-200">Our mission</p>
                   <h2 className="mt-3 max-w-lg text-3xl font-bold leading-tight">
-                    Connecting young people with opportunities in education and the workforce
+                    Connecting young people with support, opportunity, and a stronger path forward
                   </h2>
                   <p className="mt-3 max-w-xl text-base leading-7 text-slate-100">
-                    Through partnerships, initiatives, and curricula, Little But Tall prepares youth to succeed as adults and citizens.
+                    Through mentorship, education, resources, and real-world exposure, Little But Tall helps youth build confidence and pursue what is possible.
                   </p>
                   <div className="mt-5">
                     <Link
@@ -270,7 +270,7 @@ export default function Home() {
               <SectionHeading
                 eyebrow="Mission"
                 title="A mission built on hope, relationships, and opportunity"
-                text="Little But Tall exists to help young people in underserved communities see what is possible and keep moving toward it with support.
+                text="Little But Tall exists because potential is everywhere, but opportunity is not. The work is to help young people see what is possible and keep moving toward it with support.
 "
               />
               <div className="space-y-4">

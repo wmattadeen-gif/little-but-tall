@@ -1,8 +1,8 @@
 export function ImpactBand() {
   const stats = [
-    { value: "Youth-first", label: "Every page keeps student outcomes at the center" },
-    { value: "Story-driven", label: "Designed to build trust with donors and partners" },
-    { value: "Action-ready", label: "Built to convert visitors into supporters" },
+    { value: "Opportunity", label: "Opening doors through mentorship, education, exposure, and practical support" },
+    { value: "Belief", label: "Helping young people recognize potential that circumstances cannot erase" },
+    { value: "Impact", label: "Equipping youth to stand tall and contribute to their communities" },
   ];
 
   return (

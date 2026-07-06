@@ -41,7 +41,7 @@ export const featuredPrograms = [
   {
     title: "C.L.I.M.B.",
     description:
-      "Little But Tall’s core growth process, helping students choose their path, learn from mentors, set intentions, move with perseverance, and believe in what is possible.",
+      "Little But Tall’s core growth process, helping students choose their path, learn from mentors, set intentions, move with perseverance, and believe in what is possible for their future.",
     href: "/programs/climb",
   },
   {
@@ -53,7 +53,7 @@ export const featuredPrograms = [
   {
     title: "Internships & College Scholarships",
     description:
-      "Support that connects youth with workforce opportunity, educational pathways, and long-term personal growth.",
+      "Support that connects youth with educational pathways, career exposure, scholarships, and next-step opportunities that can change trajectories.",
     href: "/programs",
   },
   {
@@ -95,11 +95,11 @@ export const climbSteps = [
 export const aiProgramWeeks = [
   {
     title: "Mission-aligned concept",
-    text: "This pilot is still a newer concept page, but it should stay aligned with Little But Tall’s real voice around growth, opportunity, mentorship, and life preparation.",
+    text: "This pilot should stay aligned with Little But Tall’s core belief: potential is everywhere, but opportunity is not. Technology exposure is one way to expand what students know is possible.",
   },
   {
     title: "Future readiness",
-    text: "The framing should connect technology literacy with the same C.L.I.M.B. values that shape the organization’s broader youth development work.",
+    text: "The framing connects technology literacy with the same C.L.I.M.B. values that shape the organization’s broader youth development work.",
   },
   {
     title: "Confidence and communication",
