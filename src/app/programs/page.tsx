@@ -10,7 +10,7 @@ export default function ProgramsPage() {
         <SectionHeading
           eyebrow="Programs"
           title="Programs organized around the C.L.I.M.B. philosophy"
-          text="Little But Tall’s programs are built around a simple belief: potential is everywhere, but opportunity is not. Each program helps young people grow through community, support, exposure, and practical opportunity."
+          text="Little But Tall’s work is shaped by Choose, Learn, Intend, Move, and Believe, with each program helping young people grow through community, support, and opportunity."
         />
 
         <section className="mt-10 overflow-hidden rounded-[2rem] border border-slate-200 bg-white shadow-sm lg:grid lg:grid-cols-[1.05fr_0.95fr]">
@@ -19,7 +19,7 @@ export default function ProgramsPage() {
             <p className="mt-4 text-base leading-8 text-slate-700">
               Little But Tall describes C.L.I.M.B. as the foundation for growth and success. Each
               program is designed to inspire students to choose their path, learn new skills, set
-              positive intentions, move toward their goals, and believe in their ability to create impact.
+              positive intentions, move toward their goals, and believe in their ability to create change.
             </p>
           </div>
           <div className="bg-slate-100">
@@ -44,7 +44,7 @@ export default function ProgramsPage() {
           <div className="rounded-[2rem] border border-slate-200 bg-white p-8 shadow-sm">
             <h2 className="text-2xl font-semibold text-slate-900">Programs with clearer pathways</h2>
             <p className="mt-4 text-base leading-8 text-slate-600">
-              This structure helps families, supporters, schools, and partners understand how each part of the mission expands opportunity for young people through growth, direction, support, and exposure.
+              This structure helps families, supporters, and partners understand how each part of the mission supports young people with growth, direction, and access to opportunity.
             </p>
           </div>
           <div className="rounded-[2rem] bg-slate-900 p-8 text-white shadow-2xl">

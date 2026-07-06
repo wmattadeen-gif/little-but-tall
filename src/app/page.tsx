@@ -7,7 +7,7 @@ import { brandAssets, featuredPrograms } from "@/lib/site-data";
 const pillars = [
   {
     title: "Potential is everywhere. Opportunity is not.",
-    text: "Little But Tall exists to expand access to the relationships, resources, experiences, and encouragement young people need to discover their potential.",
+    text: "Little But Tall exists to help children and young adults in underserved communities access mentorship, education, resources, and experiences that help them discover their potential.",
     image: brandAssets.aboutMission,
   },
   {
@@ -97,7 +97,7 @@ export default function Home() {
                   Every child deserves the opportunity to discover how tall they can stand.
                 </h1>
                 <p className="max-w-2xl text-lg leading-8 text-slate-700 md:text-xl">
-                  Little But Tall Charities expands opportunities for young people in underserved communities through mentorship, education, leadership development, and meaningful pathways to impact.
+                  Little But Tall Charities supports children and young adults in underserved communities through mentorship, education, leadership development, and meaningful pathways to opportunity and impact.
                 </p>
               </div>
 
@@ -151,7 +151,7 @@ export default function Home() {
                     Connecting young people with support, opportunity, and a stronger path forward
                   </h2>
                   <p className="mt-3 max-w-xl text-base leading-7 text-slate-100">
-                    Through mentorship, education, resources, and real-world exposure, Little But Tall helps youth build confidence and pursue what is possible.
+                    Through mentorship, education, resources, and exposure, Little But Tall helps youth build confidence and pursue what is possible.
                   </p>
                   <div className="mt-5">
                     <Link

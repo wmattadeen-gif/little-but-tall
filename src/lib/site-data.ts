@@ -95,11 +95,11 @@ export const climbSteps = [
 export const aiProgramWeeks = [
   {
     title: "Mission-aligned concept",
-    text: "This pilot should stay aligned with Little But Tall’s core belief: potential is everywhere, but opportunity is not. Technology exposure is one way to expand what students know is possible.",
+    text: "This pilot is still a newer concept page, but it should stay aligned with Little But Tall’s real voice around growth, opportunity, mentorship, and life preparation.",
   },
   {
     title: "Future readiness",
-    text: "The framing connects technology literacy with the same C.L.I.M.B. values that shape the organization’s broader youth development work.",
+    text: "The framing should connect technology literacy with the same C.L.I.M.B. values that shape the organization’s broader youth development work.",
   },
   {
     title: "Confidence and communication",

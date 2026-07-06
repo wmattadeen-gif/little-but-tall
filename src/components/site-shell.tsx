@@ -48,7 +48,7 @@ export function SiteShell({
           <div>
             <h3 className="text-lg font-semibold">Little But Tall Charities</h3>
             <p className="mt-3 max-w-sm text-sm leading-7 text-slate-300">
-              Helping young people in underserved communities access mentorship, education, exposure, and real support so they can discover their potential and stand tall.
+              Helping young people in underserved communities access mentorship, education, exposure, and real support through the C.L.I.M.B. approach.
             </p>
           </div>
           <div>
